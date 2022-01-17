@@ -1,0 +1,52 @@
+
+
+
+
+Purchase date analysis Observations:
+
+
+Top spenders:
+
+
+    SN	     Purchase 	    Average           Total
+	       Count	Purchase Price	 Purchase Value
+			
+Lisosia93	5	   $ 3.79	   $ 18.96
+Idastidru52	4	   $ 3.86	   $ 15.45
+Chamjask73	3	   $ 4.61	   $ 13.83
+Iral74		4	   $ 3.41	   $ 13.62
+Iskadarya95	3	   $ 4.37	   $ 13.10
+
+
+The purchase data of the total 576 players was analyzed. The purchase count, average purchase price and total purchase value were calculated. The output was sorted based on the total purchase value. The results showed that Lisosia93 was the top spender, with a total purchase value of $ 18.95 and a purchase count of 5 items, followed by Idastidru52, Chamjask73, Irak74 and Iskadarya95.
+
+Most Popular items:
+					       
+Item ID.  Item Name 			      Purchase   Item       Total
+					       Count	Price   Purchase Value
+			
+92	Final Critic				13	$ 4.61	 $ 59.99
+178	Oathbreaker, 
+	Last Hope of the Breaking Storm		12	$ 4.23	 $ 50.76
+145	Fiery Glass Crusader			9	$ 4.58	 $ 41.22
+132	Persuasion				9	$ 3.22	 $ 28.99
+108	Extraction, 
+	Quickblade Of Trembling Hands	 	9	$ 3.53	 $ 31.77
+
+The purchase count, item price and total purchase value was calculated for each item. The output was sorted based on the purchase count. The results showed that Final critic was the most popular item among the players, which was purchased 13 times by different players. The Oathbreaker, last hope of the breaking storm was the second most popular item purchased, followed by Fiery glass crusader, Persuasion and Extraction, quick blade of trembling hands.
+
+
+Most Profitable items:
+
+		
+Item ID	Item Name				Purchase Count	Item Price	Total Purchase Value
+		
+92	Final Critic					13	$ 4.61			$ 59.99
+178	Oathbreaker, 
+	Last Hope of the Breaking Storm			12	$ 4.23			$ 50.76
+82	Nirvana						9	$ 4.90			$ 44.10
+145	Fiery Glass Crusader				9	$ 4.58			$ 41.22
+103	Singed Scalpel					8	$ 4.35			$ 34.80
+
+
+The purchase count, item price and total purchase value was calculated for each item. The output was sorted based on the purchase count. The results showed that Final critic was the most profitable item with a total purchase value of $59.99. 
